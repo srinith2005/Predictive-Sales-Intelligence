@@ -1,4 +1,4 @@
-# Sales Forecasting & Demand Intelligence System 
+# Predictive Sales Intelligence
 
 ## Overview
 
@@ -154,38 +154,9 @@ Developed a multi-page Streamlit dashboard featuring:
 
 <img width="1912" height="882" alt="image" src="https://github.com/user-attachments/assets/3748b8a3-73ba-42ad-9a16-a0fa26ae1586" />
 
-## Installation
-
-Clone the repository
-
-```bash
-git clone https://github.com/arelli-sanjay/Sales-Forecasting-Demand-Intelligence-System.git
-```
-
-Move into the project directory
-
-```bash
-cd SalesForecasting
-```
-
-Install dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-Run the Streamlit application
-
-```bash
-streamlit run app.py
-```
-
 ## Live Demo
 
-*Streamlit App:**  
-https://sales-forecasting-demand-intelligence-systemgit-2ngtjokutumcbi.streamlit.app/
-
-- Explore the interactive Sales Forecasting & Demand Intelligence Dashboard with forecasting, anomaly detection, and product demand segmentation.
+- Explore the interactive Predictive Sales Intelligence Dashboard with forecasting, anomaly detection, and product demand segmentation.
 
 ## What I Learned
 
@@ -207,9 +178,9 @@ Through this project, I gained practical experience in:
 
 ## Author
 
-**ARELLI SANJAY**
-- GitHub: https://github.com/arelli-sanjay
-- Linkedin: https://www.linkedin.com/in/sanjay-arelli-2b0970383/
+**BOJJA SRINITH GOUD**
+- GitHub: https://github.com/srinith2005
+- Linkedin: https://www.linkedin.com/in/srinithgoud/
 
 ## Support
-If you like Sales Forecasting & Demand Intelligence System consider giving it a star, on GitHub.
+If you like Predictive Sales Intelligence consider giving it a star, on GitHub.
